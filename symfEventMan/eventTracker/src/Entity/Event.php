@@ -77,7 +77,7 @@ class Event
     }
     
     public function getDescription(): ?string{
-        return $this->title;
+        return $this->description;
     }
     
     public function setDescription ($description){
