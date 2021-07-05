@@ -1,7 +1,7 @@
 # CFLMS-Valentin-CodeReview-13
 
 
-Event Crud With Symfiny 5 
+Event Crud With Php Symfony 5 
 #DESCRIPTION:
 A global event management company needs a web application to track events. They would need to have a list of all their events with the following data:
 
